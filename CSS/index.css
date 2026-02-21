@@ -20,7 +20,7 @@
     display: block;
     width: 82px;
     height: 25px;
-    background-image: url(images/logo.png);
+    background-image: url(/m-jubensha-project/images/logo.png);
     background-repeat: no-repeat;
     font-size: 0;
 }
@@ -46,7 +46,7 @@
     padding-left: 240px;
     height: 480px;
     /* width: 1300px; */
-    background-image: url(images/banner.png);
+    background-image: url(/m-jubensha-project/images/banner.png);
     background-position: 200px 0;
 }
 
@@ -62,7 +62,7 @@
     line-height: 40px;
     color: #fff;
 
-    background-image: url(images/more.png);
+    background-image: url(/m-jubensha-project/images/more.png);
     background-repeat: no-repeat;
     background-position: right center;
 }
@@ -193,6 +193,7 @@
     background-color: #0797e4;
 
 }
+
 
 
 
